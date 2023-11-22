@@ -16,3 +16,21 @@ Il recap dei dati e l'output del prezzo finale, andranno quindi stampati in pagi
 Sono richiesti almeno 5 push.
 Consigli:
 Rispettate le milestone., non andate avanti se non avete completato prima quella precedente.
+
+SCAFFOLDING
+1 - permettere all'utente di inserire i km da percorrere in html
+2 - permettere all'utente di inserire l'età in html
+3 - inserire button 
+4 - creare una variabile prezzo_totale moltiplicando i km per 0.21
+5 - ? eta è minore di 18 
+    5.1 - ricavare prezzo scontato moltiplicando il prezzo base per 0.8 e inserire nella variabile prezzo_totale
+    5.2 - arrotondare a 2 cifre decimali
+6 - : ? eta è maggiore di 65
+    6.1 - ricavare prezzo scontato moltiplicando il prezzo base per 0.6 e inserire nella variabile prezzo_totale
+    6.2 - arrotondare a 2 cifre decimali
+7 - stampare prezzo totale
+MILESTONE 2
+1 - permettere all'utente di inserire il proprio nome
+2 - permettere all'utente di inserire il proprio cognome
+3 - mostrare in html il recap dei dati
+4 - mostrare in html il prezzo finale
